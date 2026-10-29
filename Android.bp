@@ -732,21 +732,3 @@ android_app_import {
 	},
 }
 
-dex_import {
-	name: "hwIms-common",
-	owner: "huawei",
-	jars: ["proprietary/system/framework/hwIms-common.jar"],
-}
-
-dex_import {
-	name: "hwTelephony-common",
-	owner: "huawei",
-	jars: ["proprietary/system/framework/hwTelephony-common.jar"],
-}
-
-dex_import {
-	name: "telephony-common",
-	owner: "huawei",
-	jars: ["proprietary/system/framework/telephony-common.jar"],
-}
-

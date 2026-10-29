@@ -242,7 +242,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/bond/proprietary/vendor/etc/cfg_bnd_al10_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_bnd_al10_hisi.ini \
     vendor/huawei/bond/proprietary/vendor/etc/cfg_bnd_l21_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_bnd_l21_hisi.ini \
     vendor/huawei/bond/proprietary/vendor/etc/cfg_bnd_l24_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_bnd_l24_hisi.ini \
-    vendor/huawei/bond/proprietary/vendor/etc/cfg_bnd_tl10_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_bnd_tl10_hisi.ini
+    vendor/huawei/bond/proprietary/vendor/etc/cfg_bnd_tl10_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_bnd_tl10_hisi.ini \
+    vendor/huawei/bond/proprietary/vendor/firmware/isp_dts.img:$(TARGET_COPY_OUT_VENDOR)/firmware/isp_dts.img
 
 PRODUCT_PACKAGES += \
     libarcsoft_beautyshot \
@@ -285,7 +286,4 @@ PRODUCT_PACKAGES += \
     libmmi_depth \
     libmpbase \
     libunlockmegcv \
-    HwIms \
-#    hwIms-common \
-#    hwTelephony-common \
-#    telephony-common
+    HwIms
