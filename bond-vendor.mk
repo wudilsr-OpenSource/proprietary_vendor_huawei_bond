@@ -285,5 +285,4 @@ PRODUCT_PACKAGES += \
     libmeglive \
     libmmi_depth \
     libmpbase \
-    libunlockmegcv \
-    HwIms
+    libunlockmegcv

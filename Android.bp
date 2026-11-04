@@ -722,13 +722,3 @@ cc_prebuilt_library_shared {
 	device_specific: true,
 }
 
-android_app_import {
-	name: "HwIms",
-	owner: "huawei",
-	apk: "proprietary/system/app/HwIms/HwIms.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-}
-
