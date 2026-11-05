@@ -244,27 +244,19 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/bond/proprietary/vendor/etc/cfg_bnd_l24_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_bnd_l24_hisi.ini \
     vendor/huawei/bond/proprietary/vendor/etc/cfg_bnd_tl10_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_bnd_tl10_hisi.ini \
     vendor/huawei/bond/proprietary/vendor/etc/factory_modem.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/factory_modem.cfg \
-    vendor/huawei/bond/proprietary/vendor/etc/modemConfig/VIA/basic_name:$(TARGET_COPY_OUT_VENDOR)/etc/modemConfig/VIA/basic_name \
-    vendor/huawei/bond/proprietary/vendor/etc/modemConfig/VIA/viacbp82d_FieldTest.bcfg:$(TARGET_COPY_OUT_VENDOR)/etc/modemConfig/VIA/viacbp82d_FieldTest.bcfg \
     vendor/huawei/bond/proprietary/vendor/etc/modemConfig/balong/FieldTest.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/modemConfig/balong/FieldTest.cfg \
-    vendor/huawei/bond/proprietary/vendor/etc/modemConfig/balong/basic_name:$(TARGET_COPY_OUT_VENDOR)/etc/modemConfig/balong/basic_name \
     vendor/huawei/bond/proprietary/vendor/etc/modemConfig/hids_ue_msg.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/modemConfig/hids_ue_msg.cfg \
-    vendor/huawei/bond/proprietary/vendor/etc/modemConfig/viacbp82d_log.bcfg:$(TARGET_COPY_OUT_VENDOR)/etc/modemConfig/viacbp82d_log.bcfg \
-    vendor/huawei/bond/proprietary/vendor/etc/modemConfig/viacbp82d_shutdown_log.bcfg:$(TARGET_COPY_OUT_VENDOR)/etc/modemConfig/viacbp82d_shutdown_log.bcfg \
     vendor/huawei/bond/proprietary/vendor/firmware/CPU_RAM_SCHED.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CPU_RAM_SCHED.bin \
     vendor/huawei/bond/proprietary/vendor/firmware/CPU_RAM_WBS.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CPU_RAM_WBS.bin \
     vendor/huawei/bond/proprietary/vendor/firmware/Total.wdk:$(TARGET_COPY_OUT_VENDOR)/firmware/Total.wdk \
     vendor/huawei/bond/proprietary/vendor/firmware/bfgx_and_wifi_cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/bfgx_and_wifi_cfg \
     vendor/huawei/bond/proprietary/vendor/firmware/bfgx_cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/bfgx_cfg \
     vendor/huawei/bond/proprietary/vendor/firmware/cr4_asic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cr4_asic.bin \
-    vendor/huawei/bond/proprietary/vendor/firmware/cr4_regmem.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cr4_regmem.bin \
-    vendor/huawei/bond/proprietary/vendor/firmware/cr4_regmem_u1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cr4_regmem_u1.bin \
     vendor/huawei/bond/proprietary/vendor/firmware/hifi_6402.img:$(TARGET_COPY_OUT_VENDOR)/firmware/hifi_6402.img \
     vendor/huawei/bond/proprietary/vendor/firmware/hifi_6402_2spk.img:$(TARGET_COPY_OUT_VENDOR)/firmware/hifi_6402_2spk.img \
     vendor/huawei/bond/proprietary/vendor/firmware/hifi_6402_2wake.img:$(TARGET_COPY_OUT_VENDOR)/firmware/hifi_6402_2wake.img \
     vendor/huawei/bond/proprietary/vendor/firmware/hifi_6402_tas2smartpa.img:$(TARGET_COPY_OUT_VENDOR)/firmware/hifi_6402_tas2smartpa.img \
     vendor/huawei/bond/proprietary/vendor/firmware/hifi_6402_tas4smartpa.img:$(TARGET_COPY_OUT_VENDOR)/firmware/hifi_6402_tas4smartpa.img \
-    vendor/huawei/bond/proprietary/vendor/firmware/isp_bw.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/isp_bw.elf \
     vendor/huawei/bond/proprietary/vendor/firmware/isp_dts.img:$(TARGET_COPY_OUT_VENDOR)/firmware/isp_dts.img \
     vendor/huawei/bond/proprietary/vendor/firmware/isp_fw.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/isp_fw.elf \
     vendor/huawei/bond/proprietary/vendor/firmware/wifi_cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi_cfg \
